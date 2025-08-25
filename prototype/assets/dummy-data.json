@@ -1,0 +1,84 @@
+{
+  "course": {
+    "title": "Unleash Your Inner Demon.",
+    "tagline": "A course on creating dangerously effective content with AI. Stop being boring. Start going viral.",
+    "price": "$499",
+    "cta": "Unleash AI Now"
+  },
+  "modules": [
+    {
+      "icon": "🧠",
+      "title": "AI Prompt Necromancy",
+      "description": "Learn to craft prompts that resurrect dead ideas and generate content so good, it's scary. Master the dark arts of AI whispering."
+    },
+    {
+      "icon": "💥",
+      "title": "Viral Hooks & Outrage Bait",
+      "description": "Discover the formulas for creating irresistible headlines and opening hooks. We'll teach you how to ethically (or not) engineer controversy."
+    },
+    {
+      "icon": "😂",
+      "title": "AI-Powered Comedy & Satire",
+      "description": "Generate memes, jokes, and satirical scripts that hit hard. Turn your AI into the world's most uncancelable writing partner."
+    },
+    {
+      "icon": "📈",
+      "title": "The Content-to-Cash Pipeline",
+      "description": "It's not just about views. Learn how to turn your spicy content into a reliable income stream through products, services, and brand deals."
+    },
+    {
+      "icon": "🎨",
+      "title": "Visual Venom: AI Image & Video",
+      "description": "Move beyond text. Create stunning, surreal, and shocking visuals with AI image and video generators that stop the scroll instantly."
+    },
+    {
+      "icon": "🛡️",
+      "title": "Playing with Fire... Safely",
+      "description": "Understand the landscape of content moderation. Learn how to push boundaries without getting burned or deplatformed."
+    }
+  ],
+  "testimonials": [
+    {
+      "quote": "I thought I was edgy before. This course showed me I was playing in the kiddy pool. My engagement is up 300% and I landed my first five-figure brand deal.",
+      "author": "Jenna Z.",
+      "handle": "@ViralVixen"
+    },
+    {
+      "quote": "Spicy AI is an understatement. This is nuclear-grade content strategy. The prompt library alone is worth 10x the price. I'm getting ideas I never would've thought of.",
+      "author": "Marco R.",
+      "handle": "@MarketingMayhem"
+    },
+    {
+      "quote": "I was about to quit content creation. Now I feel like I have an unfair advantage. My TikToks are finally hitting the FYP consistently. This course is a cheat code.",
+      "author": "Aisha K.",
+      "handle": "@KomedyQueen"
+    },
+    {
+      "quote": "The module on 'Visual Venom' completely changed my Instagram game. The AI art I'm creating now is stopping people in their tracks. Cannot recommend this enough.",
+      "author": "Leo Chen",
+      "handle": "@SurrealistLeo"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is this for beginners?",
+      "answer": "Absolutely. We start with the fundamentals of AI prompting and content strategy. As long as you have a desire to create bold content, you'll fit right in."
+    },
+    {
+      "question": "What if my content gets me in trouble?",
+      "answer": "We have a whole module called 'Playing with Fire... Safely' dedicated to this. We teach you how to understand platform guidelines and push creative boundaries intelligently."
+    },
+    {
+      "question": "Do I need to buy expensive AI software?",
+      "answer": "No! We focus on a mix of powerful free and affordable AI tools. You won't need to break the bank to get started."
+    },
+    {
+      "question": "Is there a refund policy?",
+      "answer": "Yes, we have a 14-day, no-questions-asked money-back guarantee. If you don't feel spicier after two weeks, we'll refund your purchase."
+    },
+    {
+      "question": "Will I get lifetime access?",
+      "answer": "You bet. One-time payment gets you lifetime access to all current modules, our private community, and any future updates we add to the course."
+    }
+  ]
+}
