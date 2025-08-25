@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Homepage Wireframe</title>
+    <style>
+        body { font-family: 'Courier New', Courier, monospace; margin: 0; padding: 0; background-color: #fff; color: #333; display: flex; }
+        .main-content { width: 70%; padding: 20px; }
+        .notes { width: 30%; padding: 20px; background-color: #f0f0f0; border-left: 2px solid #ccc; min-height: 100vh; }
+        .wf-box { border: 2px solid #ccc; background-color: #e9e9e9; padding: 15px; margin-bottom: 20px; text-align: center; }
+        .wf-box-flex { display: flex; gap: 15px; justify-content: space-between; }
+        .wf-box-flex > .wf-box { flex: 1; margin-bottom: 0; }
+        h1, h2, h3, p { margin: 0; padding: 0; }
+        h2 { margin-bottom: 15px; border-bottom: 1px solid #ccc; padding-bottom: 5px; }
+        .notes h3 { margin-top: 20px; }
+        .notes p { font-size: 0.9em; }
+        header, footer { width: 100%; }
+        .placeholder { background-color: #ddd; color: #888; padding: 10px 0; }
+    </style>
+</head>
+<body>
+    <div class="main-content">
+        <header class="wf-box">
+            <p>[Logo] &nbsp;&nbsp;&nbsp; [Nav: Course | Testimonials | FAQ] &nbsp;&nbsp;&nbsp; [Enroll Button]</p>
+        </header>
+
+        <main>
+            <section class="wf-box" style="height: 250px;">
+                <h2>HERO SECTION</h2>
+                <p class="placeholder">[Large, Bold Headline]</p>
+                <p>[Compelling Sub-headline]</p>
+                <br>
+                <p class="placeholder" style="display: inline-block; padding: 10px 20px;">[Primary CTA: ENROLL NOW]</p>
+            </section>
+
+            <section class="wf-box">
+                <h2>COURSE MODULES</h2>
+                <div class="wf-box-flex">
+                    <div class="wf-box"><p>[Module 1: AI Prompting]</p></div>
+                    <div class="wf-box"><p>[Module 2: Viral Hooks]</p></div>
+                    <div class="wf-box"><p>[Module 3: Edgy Comedy]</p></div>
+                </div>
+            </section>
+
+            <section class="wf-box">
+                <h2>TESTIMONIALS</h2>
+                <div class="wf-box-flex">
+                    <div class="wf-box" style="flex: 1;"><p>"Quote from happy student" - [Author]</p></div>
+                    <div class="wf-box" style="flex: 1;"><p>"Another quote..." - [Author]</p></div>
+                </div>
+            </section>
+
+            <section class="wf-box">
+                <h2>PRICING / ENROLLMENT</h2>
+                <div class="wf-box" style="width: 50%; margin: 0 auto;">
+                    <p class="placeholder">[Price: $XXX]</p>
+                    <p>[List of what's included]</p>
+                    <br>
+                    <p class="placeholder" style="display: inline-block; padding: 10px 20px;">[Secondary CTA: ENROLL NOW]</p>
+                </div>
+            </section>
+
+            <section class="wf-box">
+                <h2>FAQ</h2>
+                <p class="placeholder" style="text-align: left; padding: 10px;">[Question 1] +</p>
+                <p class="placeholder" style="text-align: left; padding: 10px; margin-top: 10px;">[Question 2] +</p>
+            </section>
+        </main>
+
+        <footer class="wf-box">
+            <p>[Footer Links] | [Social Media Icons]</p>
+        </footer>
+    </div>
+    <aside class="notes">
+        <h2>WIREFRAME NOTES</h2>
+        
+        <h3>Header</h3>
+        <p>Simple, sticky navigation. The "Enroll" button should be visually distinct.</p>
+
+        <h3>Hero</h3>
+        <p>The most important section. Must grab attention immediately with a strong value proposition.</p>
+
+        <h3>Course Modules</h3>
+        <p>Visually break down the course content. Icons or small graphics could be used here to represent each module.</p>
+
+        <h3>Testimonials</h3>
+        <p>Social proof is critical. Use real names and handles if possible.</p>
+
+        <h3>Pricing / Enrollment</h3>
+        <p>A clear, simple pricing block with another strong call-to-action. This removes friction for users who have scrolled this far.</p>
+
+        <h3>FAQ</h3>
+        <p>Use an accordion to save space and keep the layout clean. Answer the top 3-5 objections a user might have.</p>
+
+        <h3>Footer</h3>
+        <p>Standard footer with legal links and social media presence.</p>
+    </aside>
+</body>
+</html>
